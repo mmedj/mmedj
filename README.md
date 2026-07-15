@@ -1,67 +1,76 @@
-<h1 align="center">Hey 👋 I'm Mohammed</h1>
+<h1 align="center">Hey 👋 I'm Mohammed Jaouhar</h1>
 
 <p align="center">
-Building AI products that solve real problems.
+Building useful AI products.
+</p>
+
+<p align="center">
+<a href="https://mmedj.github.io/">Portfolio</a> •
+<a href="https://linkedin.com/in/mohammed-jaouhar">LinkedIn</a> •
+<a href="mailto:mohamedjaouhar1999@gmail.com">Email</a>
 </p>
 
 ---
 
-I'm an AI Engineering student who enjoys turning ideas into working products.
+## About
 
-Lately I've been spending most of my time experimenting with LLMs, building AI agents, exploring RAG systems, and creating full-stack applications around them.
+I'm an AI Engineering student who enjoys turning ideas into products.
 
-I like projects that sit between research and software engineering—where models become tools people can actually use.
+Most of what I build lives somewhere between AI and software engineering—LLM applications, machine learning projects, full-stack web apps, and the occasional experiment that starts as curiosity and turns into something useful.
 
-Outside of AI, I enjoy web development, hackathons, and DJing.
+I'm always learning, shipping projects, and exploring new ways to build with AI.
 
 ---
 
-### What I'm working on
+## Currently Exploring
 
 - 🤖 AI Agents
 - 🧠 Retrieval-Augmented Generation (RAG)
 - 💬 LLM Applications
-- 🌐 Full-stack AI products
-- ☁️ Deploying AI systems
+- ⚡ AI Workflows & Automation
+- ☁️ MLOps & Deployment
 
 ---
 
-### Tech I enjoy using
+## Tech I Like Working With
 
 ```text
-Python • C# • ASP.NET Core • React • FastAPI
+Python • C# • ASP.NET Core • React • SQL
 PyTorch • TensorFlow • LangChain • OpenAI
-Docker • SQL • Git • Linux
+Docker • Git • Linux
 ```
 
 ---
 
-### Things I like building
+## Recent Focus
 
-- AI assistants
-- Developer tools
-- Automation workflows
-- Computer vision projects
-- Web applications
-- APIs
+- Building AI-powered applications
+- Experimenting with modern LLM frameworks
+- Learning scalable AI engineering practices
+- Improving open-source projects
 
 ---
 
-### Current Goal
+## A Few Things About Me
 
-Build AI products that people actually use instead of projects that only work in a notebook.
+- 🏆 Hackathon participant & winner
+- 🌍 Based in France
+ - ☕ Always building something new
 
 ---
 
 <p align="center">
-<a href="https://mmedj.github.io">Portfolio</a> •
-<a href="https://linkedin.com/in/mohammed-jaouhar">LinkedIn</a>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mmedj&show_icons=true&theme=transparent&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mmedj&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmedj&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmedj&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+<i>Building things, breaking things, learning from both.</i>
 </p>
